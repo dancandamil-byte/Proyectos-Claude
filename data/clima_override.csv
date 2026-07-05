@@ -1,0 +1,4 @@
+# Condiciones meteorológicas manuales para partidos concretos (tienen prioridad sobre climatología y API).
+# lluvia: none | rain | storm
+match_id,temp_c,humedad_pct,viento_kmh,lluvia,fuente
+R16-4,16,88,20,storm,Tormenta eléctrica real sobre CDMX el 5-jul-2026 (inicio retrasado)

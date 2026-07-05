@@ -1,0 +1,17 @@
+estadio_id,nombre,ciudad,pais,capacidad,altitud_m,techo,cesped,lat,lon,julio_max_c,julio_min_c,humedad_pct,clima_notas
+metlife,MetLife Stadium,East Rutherford (Nueva York/NJ),Estados Unidos,82500,3,abierto,híbrido,40.813,-74.074,29,20,68,Calor húmedo de verano; tormentas vespertinas ocasionales. Sede de la final.
+azteca,Estadio Azteca (Banorte),Ciudad de México,México,87000,2240,abierto,natural,19.303,-99.150,23,12,70,Temporada de lluvias: tormentas eléctricas casi diarias por la tarde-noche. Altitud extrema 2240 m.
+akron,Estadio Akron,Guadalajara,México,48000,1566,abierto,natural,20.682,-103.463,26,16,65,Temporada de lluvias; altitud media 1566 m.
+bbva,Estadio BBVA,Monterrey,México,53500,540,abierto,natural,25.669,-100.244,35,23,55,Calor intenso de julio.
+dallas,AT&T Stadium,Arlington (Dallas),Estados Unidos,80000,168,retráctil con A/C,artificial,32.748,-97.093,36,26,50,Techo cerrado con aire acondicionado: condiciones controladas ~22 C.
+houston,NRG Stadium,Houston,Estados Unidos,72220,15,retráctil con A/C,artificial,29.685,-95.411,34,25,75,Techo cerrado con A/C; exterior muy húmedo.
+atlanta,Mercedes-Benz Stadium,Atlanta,Estados Unidos,71000,320,retráctil con A/C,artificial,33.755,-84.401,32,22,70,Techo cerrado con A/C. Sede de semifinal.
+sofi,SoFi Stadium,Inglewood (Los Ángeles),Estados Unidos,70240,30,fijo (lados abiertos),artificial,33.953,-118.339,28,17,65,Clima templado; techo fijo translúcido.
+kansas,Arrowhead Stadium,Kansas City,Estados Unidos,76416,265,abierto,natural,39.049,-94.484,32,22,65,Calor húmedo continental; tormentas posibles.
+philadelphia,Lincoln Financial Field,Filadelfia,Estados Unidos,69796,12,abierto,híbrido,39.901,-75.168,31,21,65,Calor húmedo de verano.
+seattle,Lumen Field,Seattle,Estados Unidos,69000,5,parcial,artificial,47.595,-122.332,24,13,55,Verano seco y templado; condiciones ideales.
+levis,Levi's Stadium,Santa Clara (Bahía SF),Estados Unidos,68500,12,abierto,natural,37.403,-121.970,28,14,60,Templado y seco.
+boston,Gillette Stadium,Foxborough (Boston),Estados Unidos,65878,89,abierto,natural,42.091,-71.264,28,18,65,Verano templado-húmedo. Sede de cuartos.
+miami,Hard Rock Stadium,Miami Gardens,Estados Unidos,64767,3,abierto con marquesina,natural,25.958,-80.239,32,26,76,Calor y humedad extremos; tormentas tropicales frecuentes.
+toronto,BMO Field,Toronto,Canadá,45000,83,abierto,híbrido,43.633,-79.418,27,17,65,Verano templado.
+vancouver,BC Place,Vancouver,Canadá,54000,5,retráctil,artificial,49.277,-123.112,22,13,60,Techo retráctil; verano fresco y seco.
