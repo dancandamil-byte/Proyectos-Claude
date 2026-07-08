@@ -1,17 +1,17 @@
-match_id,fase,fecha,hora_local,local,visitante,estadio_id,goles_local,goles_visitante,estado,notas
-R16-1,Octavos,2026-07-04,12:00,Marruecos,Canadá,houston,3,0,finalizado,Doblete de Ounahi
-R16-2,Octavos,2026-07-04,17:00,Francia,Paraguay,philadelphia,1,0,finalizado,Penal de Mbappé
-R16-3,Octavos,2026-07-05,16:00,Brasil,Noruega,metlife,1,2,finalizado,Doblete de Haaland (min 79 y 90); penal de consolación de Neymar
-R16-4,Octavos,2026-07-05,19:00,México,Inglaterra,azteca,,,por_jugar,Inicio retrasado por tormenta eléctrica en CDMX
-R16-5,Octavos,2026-07-06,14:00,Portugal,España,dallas,,,por_jugar,Derbi ibérico bajo techo con A/C
-R16-6,Octavos,2026-07-06,17:00,Estados Unidos,Bélgica,seattle,,,por_jugar,Revancha de octavos 2014
-R16-7,Octavos,2026-07-07,12:00,Argentina,Egipto,atlanta,,,por_jugar,Messi vs Salah
-R16-8,Octavos,2026-07-07,13:00,Suiza,Colombia,vancouver,,,por_jugar,
-QF-1,Cuartos,2026-07-09,16:00,Francia,Marruecos,boston,,,por_jugar,Revancha de la semifinal de 2022
-QF-2,Cuartos,2026-07-10,16:00,W:R16-5,W:R16-6,sofi,,,por_jugar,
-QF-3,Cuartos,2026-07-11,16:00,Noruega,W:R16-4,miami,,,por_jugar,
-QF-4,Cuartos,2026-07-11,20:00,W:R16-7,W:R16-8,kansas,,,por_jugar,
-SF-1,Semifinal,2026-07-14,15:00,W:QF-1,W:QF-2,dallas,,,por_jugar,
-SF-2,Semifinal,2026-07-15,15:00,W:QF-3,W:QF-4,atlanta,,,por_jugar,
-3P,Tercer puesto,2026-07-18,15:00,L:SF-1,L:SF-2,miami,,,por_jugar,
-F,Final,2026-07-19,15:00,W:SF-1,W:SF-2,metlife,,,por_jugar,Final en MetLife Stadium
+match_id,fase,fecha,hora_local,local,visitante,estadio_id,goles_local,goles_visitante,estado,ganador,notas
+R16-1,Octavos,2026-07-04,12:00,Marruecos,Canadá,houston,3,0,finalizado,Marruecos,Doblete de Ounahi
+R16-2,Octavos,2026-07-04,17:00,Francia,Paraguay,philadelphia,1,0,finalizado,Francia,Penal de Mbappé
+R16-3,Octavos,2026-07-05,16:00,Brasil,Noruega,metlife,1,2,finalizado,Noruega,Doblete de Haaland (min 79 y 90); penal de consolación de Neymar
+R16-4,Octavos,2026-07-05,19:00,México,Inglaterra,azteca,2,3,finalizado,Inglaterra,Doblete de Bellingham (38' y 39'); Kane anotó de penal; Quiñones y Jiménez (penal) para México; Quansah expulsado en Inglaterra
+R16-5,Octavos,2026-07-06,14:00,Portugal,España,dallas,0,1,finalizado,España,Gol de Merino en el descuento; fin de la carrera mundialista de Cristiano Ronaldo
+R16-6,Octavos,2026-07-06,17:00,Estados Unidos,Bélgica,seattle,1,4,finalizado,Bélgica,Doblete de De Ketelaere, gol de Vanaken y de Lukaku; Tillman descontó para EE. UU.
+R16-7,Octavos,2026-07-07,12:00,Argentina,Egipto,atlanta,3,2,finalizado,Argentina,Argentina remontó 0-2; Messi anotó su 8º gol del torneo (máximo goleador) tras fallar un penal; gol decisivo de Enzo Fernández en el descuento
+R16-8,Octavos,2026-07-07,13:00,Suiza,Colombia,vancouver,0,0,finalizado,Suiza,0-0 tras 120 minutos; Suiza avanzó 4-3 en penales (ganador definido por penales, no por el marcador)
+QF-1,Cuartos,2026-07-09,16:00,Francia,Marruecos,boston,,,por_jugar,,Revancha de la semifinal de 2022
+QF-2,Cuartos,2026-07-10,16:00,España,Bélgica,sofi,,,por_jugar,,
+QF-3,Cuartos,2026-07-11,16:00,Noruega,Inglaterra,miami,,,por_jugar,,
+QF-4,Cuartos,2026-07-11,20:00,Argentina,Suiza,kansas,,,por_jugar,,
+SF-1,Semifinal,2026-07-14,15:00,W:QF-1,W:QF-2,dallas,,,por_jugar,,
+SF-2,Semifinal,2026-07-15,15:00,W:QF-3,W:QF-4,atlanta,,,por_jugar,,
+3P,Tercer puesto,2026-07-18,15:00,L:SF-1,L:SF-2,miami,,,por_jugar,,
+F,Final,2026-07-19,15:00,W:SF-1,W:SF-2,metlife,,,por_jugar,,Final en MetLife Stadium

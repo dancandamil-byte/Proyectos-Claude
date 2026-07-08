@@ -36,9 +36,11 @@ def simular_torneo(partidos, equipos, estadios, overrides, n_sims=20000, semilla
             visita = _resolver(p["visitante"], ganadores, perdedores)
 
             if p["estado"] == "finalizado":
-                gl, gv = p["goles_local"], p["goles_visitante"]
-                ganadores[mid] = local if gl > gv else visita
-                perdedores[mid] = visita if gl > gv else local
+                # Se usa el campo "ganador" explícito (no el marcador) porque un
+                # empate en 90'/prórroga puede resolverse por penales.
+                gano_local = p["ganador"] == local
+                ganadores[mid] = local if gano_local else visita
+                perdedores[mid] = visita if gano_local else local
             else:
                 prob_l = _prob_avance(local, visita, estadios[p["estadio_id"]],
                                       clima_por_partido[mid], equipos)

@@ -1,17 +1,17 @@
 equipo,confederacion,elo_base,forma_2026,pais_anfitrion,adaptado_altitud,notas
-Argentina,CONMEBOL,2145,40,no,si,Campeón defensor. Messi con 7 goles en el torneo. Invicto en 2026.
-España,UEFA,2150,30,no,no,Número 1 del ranking Elo. Juego de posesión dominante en fase de grupos.
+Argentina,CONMEBOL,2145,35,no,si,Campeón defensor. Remontó 0-2 a Egipto (3-2); Messi máximo goleador del torneo con 8 goles pero falló un penal; defensa vulnerable.
+España,UEFA,2150,35,no,no,Número 1 del ranking Elo. Sufrió hasta el descuento ante Portugal (1-0, gol de Merino) pero sigue invicta.
 Francia,UEFA,2035,25,no,no,Ganó 1-0 a Paraguay con penal de Mbappé. Sólida pero poco goleadora.
-Inglaterra,UEFA,2040,20,no,no,Primera de su grupo. Debe visitar el Azteca: altitud y ambiente hostil.
-Portugal,UEFA,2010,20,no,no,Clasificó con autoridad. Derbi ibérico en octavos.
-Noruega,UEFA,1940,70,no,no,Eliminó a Brasil 2-1. Haaland con 7 goles iguala a Messi. Primer mundial desde 1998.
-Colombia,CONMEBOL,1935,20,no,si,Venció a Ghana en dieciseisavos. Acostumbrada a la altitud (Bogotá).
+Inglaterra,UEFA,2040,25,no,no,Eliminó a México 3-2 en el Azteca (doblete de Bellingham) pero jugó con uno menos gran parte del segundo tiempo; defensa expuesta.
+Noruega,UEFA,1940,70,no,no,Eliminó a Brasil 2-1. Haaland lidera junto a Messi con 7-8 goles. Primer mundial desde 1998. Descansada: sin partido desde el 5 de julio.
 Marruecos,CAF,1885,50,no,no,Goleó 3-0 a Canadá. Semifinalista 2022. Defensa de élite.
-Bélgica,UEFA,1865,10,no,no,Generación en transición; clasificó con apuros.
-Suiza,UEFA,1835,10,no,no,Ordenada y física; cuarta ronda de octavos consecutiva.
-México,CONCACAF,1815,30,si,si,Anfitrión. Juega en el Azteca a 2240 m con 87 000 aficionados.
-Estados Unidos,CONCACAF,1795,20,si,no,Anfitrión. Juega en Seattle con apoyo local.
-Egipto,CAF,1745,20,no,no,Primeros octavos de su historia. Salah decisivo pero plantel corto.
+Bélgica,UEFA,1865,45,no,no,Goleó 4-1 a Estados Unidos (doblete de De Ketelaere); mostró gran poder ofensivo camino a enfrentar a España.
+Suiza,UEFA,1835,15,no,no,Avanzó por penales (4-3) tras 0-0 ante Colombia; ordenada pero muy poco gol en el torneo.
+Portugal,UEFA,2010,0,no,no,ELIMINADO en octavos por España (0-1, gol de Merino en el descuento); fin de la carrera mundialista de Cristiano Ronaldo.
+México,CONCACAF,1815,0,si,si,ELIMINADO en octavos por Inglaterra (2-3) pese a jugar como anfitrión en el Azteca.
+Estados Unidos,CONCACAF,1795,0,si,no,ELIMINADO en octavos por Bélgica (1-4) pese a jugar como anfitrión en Seattle.
+Colombia,CONMEBOL,1935,0,no,si,ELIMINADO en octavos por Suiza en penales (0-0, 3-4 en la tanda).
+Egipto,CAF,1745,0,no,no,ELIMINADO en octavos por Argentina (2-3) tras ir ganando 2-0.
 Brasil,CONMEBOL,2015,0,no,no,ELIMINADO en octavos por Noruega (1-2).
 Paraguay,CONMEBOL,1780,0,no,si,ELIMINADO en octavos por Francia (0-1).
 Canadá,CONCACAF,1785,0,si,no,ELIMINADO en octavos por Marruecos (0-3).

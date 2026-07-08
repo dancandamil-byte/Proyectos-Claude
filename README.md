@@ -75,13 +75,28 @@ predict.py        # CLI
 - **Forma:** ajusta la columna `forma_2026` de `data/ratings_equipos.csv` tras
   cada ronda (rango razonable: ±80 puntos).
 
-## Estado del torneo (5 de julio de 2026)
+## Estado del torneo (8 de julio de 2026)
 
-- Octavos jugados: Marruecos 3-0 Canadá · Francia 1-0 Paraguay · **Brasil 1-2
-  Noruega** (doblete de Haaland; Brasil eliminado).
-- Hoy: **México vs Inglaterra** en el Azteca (retrasado por tormenta eléctrica).
-- Cuartos ya definidos: Francia vs Marruecos (Boston, 9-jul) y Noruega vs
-  ganador México/Inglaterra (Miami, 11-jul).
+Octavos de final completos (8 de 8):
+
+- Marruecos 3-0 Canadá · Francia 1-0 Paraguay · Noruega 2-1 Brasil (Haaland)
+- Inglaterra 3-2 México (doblete de Bellingham; Azteca)
+- España 1-0 Portugal (gol de Merino en el descuento; fin de Cristiano Ronaldo)
+- Bélgica 4-1 Estados Unidos (doblete de De Ketelaere)
+- Argentina 3-2 Egipto (remontada desde el 0-2; Messi, 8 goles, máximo goleador)
+- Suiza 0-0 Colombia (4-3 en penales)
+
+Cuartos de final (9-11 de julio):
+
+- **QF-1** Francia vs Marruecos — Boston, 9 de julio
+- **QF-2** España vs Bélgica — SoFi Stadium (LA), 10 de julio
+- **QF-3** Noruega vs Inglaterra — Miami, 11 de julio
+- **QF-4** Argentina vs Suiza — Kansas City, 11 de julio
+
+> **Nota técnica:** el partido Suiza-Colombia terminó 0-0 y se definió por
+> penales. El modelo usa una columna `ganador` explícita en
+> `data/partidos_2026.csv` (no solo el marcador) para que la simulación no
+> asigne el avance al equipo equivocado en empates resueltos por penales.
 
 > ⚠️ **Aviso importante:** ningún modelo garantiza aciertos. Las probabilidades
 > son estimaciones con error inherente y el fútbol de eliminación directa tiene
