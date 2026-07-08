@@ -39,13 +39,13 @@
 
 **Marcadores más probables:** 1-1 (13.1%) · 1-0 (12.4%) · 2-0 (10.9%) · 0-0 (9.9%) · 2-1 (9.4%)
 
-**Análisis de valor** (cuotas: EJEMPLO - reemplazar con cuotas reales; margen de la casa 4.5%):
+**Análisis de valor** (cuotas: Casa de apuestas del usuario (captura 8-jul-2026); margen de la casa 2.9%):
 
 | Signo | Prob. modelo | Cuota justa | Cuota mercado | EV | Kelly 25 % |
 |---|---|---|---|---|---|
-| Gana local | 53.4% | 1.87 | 2.10 | +12.2% ⭐ **VALOR** | 2.8 % del bank |
-| Empate | 27.7% | 3.61 | 3.20 | -11.4% | 0.0 % del bank |
-| Gana visitante | 18.9% | 5.29 | 3.90 | -26.3% | 0.0 % del bank |
+| Gana local | 53.4% | 1.87 | 1.60 | -14.5% | 0.0 % del bank |
+| Empate | 27.7% | 3.61 | 4.00 | +10.8% ⭐ **VALOR** | 0.9 % del bank |
+| Gana visitante | 18.9% | 5.29 | 6.50 | +22.8% ⭐ **VALOR** | 1.0 % del bank |
 
 ### España vs Bélgica — Cuartos (QF-2)
 
@@ -69,13 +69,13 @@
 
 **Marcadores más probables:** 2-0 (17.8%) · 1-0 (16.7%) · 3-0 (12.1%) · 0-0 (9.4%) · 1-1 (8.1%)
 
-**Análisis de valor** (cuotas: EJEMPLO - reemplazar con cuotas reales; margen de la casa 6.1%):
+**Análisis de valor** (cuotas: Casa de apuestas del usuario (captura 8-jul-2026); margen de la casa 3.4%):
 
 | Signo | Prob. modelo | Cuota justa | Cuota mercado | EV | Kelly 25 % |
 |---|---|---|---|---|---|
-| Gana local | 75.1% | 1.33 | 1.45 | +8.9% ⭐ **VALOR** | 4.9 % del bank |
-| Empate | 19.2% | 5.20 | 4.60 | -11.5% | 0.0 % del bank |
-| Gana visitante | 5.7% | 17.66 | 6.50 | -63.2% | 0.0 % del bank |
+| Gana local | 75.1% | 1.33 | 1.63 | +22.4% ⭐ **VALOR** | 8.9 % del bank |
+| Empate | 19.2% | 5.20 | 3.90 | -25.0% | 0.0 % del bank |
+| Gana visitante | 5.7% | 17.66 | 6.10 | -65.5% | 0.0 % del bank |
 
 ### Noruega vs Inglaterra — Cuartos (QF-3)
 
@@ -99,13 +99,13 @@
 
 **Marcadores más probables:** 1-1 (14.3%) · 0-1 (11.3%) · 0-0 (11.0%) · 1-2 (8.6%) · 0-2 (8.5%)
 
-**Análisis de valor** (cuotas: EJEMPLO - reemplazar con cuotas reales; margen de la casa 5.1%):
+**Análisis de valor** (cuotas: Casa de apuestas del usuario (captura 8-jul-2026); margen de la casa 3.0%):
 
 | Signo | Prob. modelo | Cuota justa | Cuota mercado | EV | Kelly 25 % |
 |---|---|---|---|---|---|
-| Gana local | 26.9% | 3.71 | 2.60 | -30.0% | 0.0 % del bank |
-| Empate | 30.4% | 3.29 | 3.30 | +0.3% | 0.0 % del bank |
-| Gana visitante | 42.7% | 2.34 | 2.75 | +17.4% ⭐ **VALOR** | 2.5 % del bank |
+| Gana local | 26.9% | 3.71 | 4.40 | +18.5% ⭐ **VALOR** | 1.4 % del bank |
+| Empate | 30.4% | 3.29 | 3.65 | +10.9% ⭐ **VALOR** | 1.0 % del bank |
+| Gana visitante | 42.7% | 2.34 | 1.89 | -19.3% | 0.0 % del bank |
 
 ### Argentina vs Suiza — Cuartos (QF-4)
 
@@ -129,26 +129,13 @@
 
 **Marcadores más probables:** 2-0 (22.0%) · 1-0 (20.0%) · 3-0 (15.7%) · 0-0 (10.0%) · 4-0 (8.4%)
 
-**Análisis de valor** (cuotas: EJEMPLO - reemplazar con cuotas reales; margen de la casa 4.9%):
+**Análisis de valor** (cuotas: Casa de apuestas del usuario (captura 8-jul-2026); margen de la casa 3.5%):
 
 | Signo | Prob. modelo | Cuota justa | Cuota mercado | EV | Kelly 25 % |
 |---|---|---|---|---|---|
-| Gana local | 82.7% | 1.21 | 1.55 | +28.2% ⭐ **VALOR** | 12.8 % del bank |
-| Empate | 15.1% | 6.61 | 4.00 | -39.5% | 0.0 % del bank |
-| Gana visitante | 2.2% | 45.55 | 6.50 | -85.7% | 0.0 % del bank |
-
-## Simulación Monte Carlo del torneo (20 000 iteraciones)
-
-| Equipo | Cuartos | Semifinal | Final | Campeón | Cuota justa campeón |
-|---|---|---|---|---|---|
-| Argentina | 100.0% | 93.5% | 66.9% | 38.6% | 2.6 |
-| España | 100.0% | 88.0% | 65.1% | 37.8% | 2.6 |
-| Francia | 100.0% | 69.3% | 24.8% | 9.4% | 10.6 |
-| Inglaterra | 100.0% | 59.0% | 20.2% | 8.1% | 12.3 |
-| Noruega | 100.0% | 41.0% | 11.6% | 3.7% | 27.3 |
-| Marruecos | 100.0% | 30.6% | 6.3% | 1.3% | 77.2 |
-| Bélgica | 100.0% | 12.0% | 3.8% | 0.8% | 124.2 |
-| Suiza | 100.0% | 6.5% | 1.4% | 0.2% | 487.8 |
+| Gana local | 82.7% | 1.21 | 1.75 | +44.7% ⭐ **VALOR** | 14.9 % del bank |
+| Empate | 15.1% | 6.61 | 3.45 | -47.8% | 0.0 % del bank |
+| Gana visitante | 2.2% | 45.55 | 5.75 | -87.4% | 0.0 % del bank |
 
 ---
 

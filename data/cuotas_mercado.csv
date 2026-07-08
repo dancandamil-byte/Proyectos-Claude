@@ -1,6 +1,6 @@
-# Cuotas 1X2 (90 minutos) de EJEMPLO. Sustituye por las cuotas reales de tu casa de apuestas antes de buscar valor.
+# Cuotas 1X2 (90 minutos, mercado "Resultado Final") REALES, capturadas por el usuario el 8-jul-2026.
 match_id,cuota_local,cuota_empate,cuota_visitante,fuente
-QF-1,2.10,3.20,3.90,EJEMPLO - reemplazar con cuotas reales
-QF-2,1.45,4.60,6.50,EJEMPLO - reemplazar con cuotas reales
-QF-3,2.60,3.30,2.75,EJEMPLO - reemplazar con cuotas reales
-QF-4,1.55,4.00,6.50,EJEMPLO - reemplazar con cuotas reales
+QF-1,1.60,4.00,6.50,Casa de apuestas del usuario (captura 8-jul-2026)
+QF-2,1.63,3.90,6.10,Casa de apuestas del usuario (captura 8-jul-2026)
+QF-3,4.40,3.65,1.89,Casa de apuestas del usuario (captura 8-jul-2026)
+QF-4,1.75,3.45,5.75,Casa de apuestas del usuario (captura 8-jul-2026)
